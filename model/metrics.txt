@@ -1,0 +1,1 @@
+Training accuracy: 98.2%
