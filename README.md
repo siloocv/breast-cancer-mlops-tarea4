@@ -4,3 +4,4 @@ Este proyecto implementa un flujo MLOps para predecir cáncer de mama utilizando
 
 Última edición: 30 de abril - activando workflow
 Workflow activado con token
+Nuevo token válido para CML
